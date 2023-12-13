@@ -25,6 +25,8 @@
     {
       "path": "day7"
     },
-  ],
-  "settings": {}
+    {
+      "path": "day8"
+    },
+  ]
 }
